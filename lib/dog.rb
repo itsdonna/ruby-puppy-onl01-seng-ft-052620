@@ -20,6 +20,12 @@ class Dog
      @@all.each do |puppy|
        puts puppy.name
      end
+     
+     def save
+       @@all 
+   
+   end
+   
   end
 
 end# Add your code here
