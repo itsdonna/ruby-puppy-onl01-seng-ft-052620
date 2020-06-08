@@ -6,6 +6,6 @@ class Dog
   end
   
   def self.all
-    @@all <<
+    @@all << @name
   end
 end# Add your code here
