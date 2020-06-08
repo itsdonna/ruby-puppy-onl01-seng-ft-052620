@@ -15,5 +15,7 @@ class Dog
     
     @@all.clear 
   end
+  
+  def 
 
 end# Add your code here
