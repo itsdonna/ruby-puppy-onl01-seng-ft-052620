@@ -11,4 +11,6 @@ class Dog
   def self.all
     @@all
   end
+  
+  def 
 end# Add your code here
