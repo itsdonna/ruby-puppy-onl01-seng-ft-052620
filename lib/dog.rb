@@ -11,6 +11,9 @@ class Dog
   def self.all
     @@all
   end
-  
-  def 
+  def self.clear_all 
+    
+    
+  end
+
 end# Add your code here
