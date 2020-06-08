@@ -16,6 +16,8 @@ class Dog
     @@all.clear 
   end
   
-  def 
+  def Dog.print_all
+    puts @@all
+  end
 
 end# Add your code here
