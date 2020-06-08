@@ -21,13 +21,13 @@ class Dog
        puts puppy.name
      end
      
-     end
+  end
      
-     def save
-      @@all << self
+  def save
+    @@all << self
    
    end
    
-  end
+  
 
 end# Add your code here
